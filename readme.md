@@ -4,6 +4,10 @@
 
 The Number Guessing Game is a simple Python program that allows users to play a game by guessing a randomly generated number within a specified range.
 
+## Demonstration
+
+![Image](/pictures/Screenshot%202024-04-23%20223806.png)
+
 ## Features
 
 - Generates a random number within a user-specified range.
